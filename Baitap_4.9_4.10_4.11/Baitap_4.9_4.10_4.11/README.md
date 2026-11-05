@@ -49,10 +49,18 @@
 ### Bài 4.11: Quản lý đơn đăng ký dịch vụ sửa chữa (Repair Service Tracker)
 
 #### 1. Ảnh màn hình Giao diện chính
+<img width="1210" height="910" alt="image" src="https://github.com/user-attachments/assets/04fd18ee-3dc2-4f35-a7dd-96f0a45443fa" />
 
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+<img width="1218" height="748" alt="image" src="https://github.com/user-attachments/assets/ea8948aa-ea28-4a60-ba99-88e3f9f1bc70" />
+<img width="1216" height="930" alt="image" src="https://github.com/user-attachments/assets/3cbcfca2-ae55-4047-80f3-5b79f532b86c" />
+<img width="1211" height="920" alt="image" src="https://github.com/user-attachments/assets/ba5407b9-bca5-4871-9899-f18a0e3c13c3" />
+
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+<img width="1216" height="923" alt="image" src="https://github.com/user-attachments/assets/daebfd6d-40f6-48cd-a0a0-5e652255c9a3" />
+<img width="1213" height="917" alt="image" src="https://github.com/user-attachments/assets/7e5b2f90-b122-4166-9330-1e6198b24950" />
+<img width="1213" height="910" alt="image" src="https://github.com/user-attachments/assets/cce24a33-e0ec-4e19-9ea5-03b7b7f47b22" />
 
 ---
