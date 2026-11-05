@@ -2,8 +2,8 @@
 
 ## THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** Vương Thanh Thúy
-- **Mã số sinh viên:** 24810310270
+- **Họ và tên:** Mai Thị Nguyệt Ánh
+- **Mã số sinh viên:** 24810310188
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình .Net
 - **Tên bài tập:** Bài 4.9 – 4.11: Quản lý lịch hẹn phòng khám, Mượn trả thiết bị, Đơn sửa chữa
